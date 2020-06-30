@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="./ufc_bugs.png?raw=true" title="WTF" alt="WTF" width="600" height="208" />
+</p>
+
 # UFC Fight Pass Bugs
 
 The official UFC Fight Pass app is by far the buggiest app I've got running on my AppleTV and iOS devices. While the content is excellent, the entire usability experience is poor. 
