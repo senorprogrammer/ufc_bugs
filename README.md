@@ -4,7 +4,7 @@
 
 # UFC Fight Pass Bugs
 
-The official UFC Fight Pass app is by far the buggiest app I've got running on my AppleTV and iOS devices. While the content is excellent, the entire usability experience is poor. I can only assume whomever built it did so without ever having use Netflix, or Disney+, or practically any other content app available.
+The official UFC Fight Pass app is by far the buggiest app I've got running on my AppleTV and iOS devices. While the content is excellent, the entire usability experience is remarkably poor. It is in fact the buggest app on my AppleTV, by orders of magnitude.
 
 This repository is to track those bugs so I can stop fuming about them every time I encounter them.
 
